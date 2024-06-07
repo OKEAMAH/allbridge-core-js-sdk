@@ -110,7 +110,7 @@
     "tronweb": "^4.4.0",
     "web3": "1.9.0",
     "web3-core": "1.9.0",
-    "web3-eth-contract": "1.9.0",
+    "web3-eth-contract": "4.4.0",
     "web3-utils": "4.2.1"
   },
   "pnpm": {
